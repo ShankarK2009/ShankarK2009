@@ -17,13 +17,13 @@ Welcome to my GitHub! I’m passionate about building AI-powered applications th
 
 ## 🛠️ Skills
 
-- **Web Development:** JavaScript, HTML, CSS
-- **AI Applications:** Integrating LLMs, AI APIs, Automation (n8n)
+- **Web Development:** React, JavaScript, HTML, CSS
+- **AI Applications:** Integrating LLMs, AI APIs, Automation (n8n), AI Agents (CrewAI)
 - **Other Interests:** Building apps that make learning fun and effective
 
 ## 📬 Get in Touch
 
-Feel free to check out my projects, open an issue, or connect through GitHub discussions. Always happy to collaborate or chat about web dev and AI!
+Feel free to check out my projects, open an issue, or connect through GitHub discussions. Always happy to collaborate or chat!
 
 ---
 
