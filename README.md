@@ -6,7 +6,7 @@ I’m a senior at Adlai E. Stevenson High School, Class of 2027. I build iOS app
 
 ## 🚀 What I’m working on
 
-- **[Stevenson Space](https://github.com/stevenson-space/app)** — An independent iOS app for my school, developed with Rishabh Sinha. Bell schedules, countdown widgets, lunch menus, and a digital student ID, built with Swift and SwiftUI. I also contribute to the [web version](https://stevenson.space).
+- **[Stevenson Space](https://github.com/stevenson-space/app)** — An independent iOS app for my school. Bell schedules, countdown widgets, lunch menus, and a digital student ID, built with Swift and SwiftUI. I also contribute to the [web version](https://stevenson.space).
 - **[Bridge AIDE](https://www.bridgeaide.org)** — As Director of Technology, I rebuilt our student-led AI development and ethics organization’s website with Astro and TypeScript, replacing Wix. [Source code](https://github.com/ShankarK2009/bridge-ai-dev).
 - **[Rejuvenate Ganga](https://rejuvenateganga.com)** — As technology lead, I co-built the nonprofit’s platform with Rohan Jain: donor, volunteer, and partner portals, plus donation verification tools. Built with Node.js, Express, PostgreSQL, and Docker.
 - **[My portfolio](https://shankark.tech)** — A laptop lid covered in project stickers, built with plain HTML, CSS, and JavaScript. [Source code](https://github.com/ShankarK2009/personal-portfolio).
